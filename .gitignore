@@ -230,3 +230,9 @@ data/
 models/
 *.csv
 *.zip
+
+# Jupyter/IDE artifacts
+.virtual_documents/
+
+# Generated plots
+*.svg
