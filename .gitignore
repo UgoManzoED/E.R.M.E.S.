@@ -236,3 +236,12 @@ models/
 
 # Generated plots
 *.svg
+
+# Modelli di Machine Learning
+*.h5
+*.hdf5
+models/
+
+# Log di TensorBoard
+logs/
+notebooks/logs/
