@@ -1,0 +1,18 @@
+# E.R.M.E.S. - Core Machine Learning & Deep Learning
+tensorflow==2.15.0
+scikit-learn>=1.2.0
+
+# E.R.M.E.S. - Computer Vision & Image Processing
+opencv-python>=4.8.0
+
+# E.R.M.E.S. - Data Manipulation & Computation
+numpy>=1.24.0
+pandas>=2.0.0
+
+# E.R.M.E.S. - Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# E.R.M.E.S. - Environment
+jupyterlab>=4.0.0
+notebook>=7.0.0
